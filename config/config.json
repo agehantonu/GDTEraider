@@ -1,0 +1,28 @@
+{
+    "solver": {
+        "enabled": false,
+        "service": "capmonster",
+        "api_key": "",
+        "timeout": 120
+    },
+    "ai_chater": {
+        "gemini_api_key": "AQ.Ab8RN6LniSGtM7cGyhd6ckvNIfO9B1nT9pMcxHpw5-Gah1qRdA",
+        "model": "gemini-2.0-flash",
+        "max_tokens": 500,
+        "temperature": 0.9
+    },
+    "proxy": {
+        "enabled": false,
+        "rotation": true
+    },
+    "delay": {
+        "joiner_min": 2.0,
+        "joiner_max": 4.0,
+        "message_min": 0.0,
+        "message_max": 0.0
+    },
+    "ja3": {
+        "enabled": true,
+        "profile": "random"
+    }
+}
