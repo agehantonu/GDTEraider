@@ -33,7 +33,7 @@ ASCII_ART = f"""
 """
 
 def print_red_box_menu():
-    """赤枠で囲んだ英語メニューを表示"""
+  
     menu_items = [
         "[1] Message Spammer",
         "[2] Reply Spammer",
