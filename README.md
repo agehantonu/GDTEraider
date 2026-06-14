@@ -1,6 +1,4 @@
-https://github.com/user-attachments/assets/68fd71aa-b10d-47b8-84c7-d651cf93760e
 
-----------------------------------------------------------------------------------
 
 
 # GDTE raider 
